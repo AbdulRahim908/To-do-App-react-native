@@ -22,6 +22,6 @@
 
 # Styles are defined using the StyleSheet.create method for various components, including the container, title, input, buttons, and individual task items.
 # Export:
-/n
+
 # The App component is exported as the default export.
 # This code demonstrates a basic ToDo app with CRUD (Create, Read, Update, Delete) functionality in React Native. Users can input tasks, edit them, and delete them. The styling is done using the StyleSheet.create method to keep the styles organized. The code uses functional components and hooks, such as useState. The app has a simple and clean design with a heading, title, input field, and a list of tasks with corresponding buttons for editing and deleting.
